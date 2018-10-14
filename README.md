@@ -2,4 +2,4 @@
 Private TestApp for CICD pipeline
 
 TEST AGAIN
-AUFM MASTER
+DEV/PR ON PULL REQUEST
